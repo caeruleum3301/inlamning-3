@@ -1,0 +1,30 @@
+body {
+  background-color: rgba(34, 34, 34, 0.638);
+  display: flex;
+  justify-content: center;
+  height: 85vh;
+  width: 95vw;
+  flex-direction: column;
+  align-items: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  background-color: green;
+  padding: 5%;
+}
+input {
+  padding: 10px 15px;
+  width: 30vw;
+}
+.send {
+  width: 4vw;
+}
+.button {
+  display: flex;
+  display: row;
+}
+.register {
+  color: white;
+  list-style: none;
+}
